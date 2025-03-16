@@ -33,7 +33,7 @@
 
 ### 📫 Como me encontrar
 
-📩 **Email:** [frnnardes@email.com](mailto:frnnardes@gmail.com)  
+📩 **Email:** [frnnardes@gmail.com](mailto:frnnardes@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/frnnardes](https://www.linkedin.com/in/frnnardes/)  
 
 🚀 Vamos construir algo incrível juntos!
