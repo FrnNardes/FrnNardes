@@ -33,8 +33,7 @@
 
 ### 📫 Como me encontrar
 
-📩 **Email:** [fernando@email.com](mailto:fernando@email.com)  
-💼 **LinkedIn:** [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/seu-usuario/)  
-🐦 **Twitter:** [@seu-usuario](https://twitter.com/seu-usuario)
+📩 **Email:** [fernando@email.com](mailto:frnnardeso@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/frnnardes/)  
 
 🚀 Vamos construir algo incrível juntos!
