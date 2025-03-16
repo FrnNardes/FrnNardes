@@ -1,4 +1,4 @@
-### 👋 Olá, eu sou o Fernando Nardes!
+### 👋 Olá, me chamo Fernando Nardes!
 
 💻 Desenvolvedor | 📚 Estudante de Ciência da Computação | 🚀 Explorando Java, IA
 
