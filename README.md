@@ -26,14 +26,14 @@
 
 ### 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frnnardes&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frnnardes&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Como me encontrar
 
-📩 **Email:** [fernando@email.com](mailto:frnnardeso@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/frnnardes/)  
+📩 **Email:** [frnnardes@email.com](mailto:frnnardes@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/frnnardes](https://www.linkedin.com/in/frnnardes/)  
 
 🚀 Vamos construir algo incrível juntos!
