@@ -10,7 +10,7 @@
 
 📌 Atualmente participando de uma **Residência de Software**.
 
-🌱 Sempre buscando aprender algo novo e aprimorar minhas habilidades no desenvolvimento de software.
+🌱 Sempre buscando aprender algo novo e aprimorar minhas habilidades.
 
 ---
 
@@ -27,5 +27,3 @@
 
 📩 **Email:** [frnnardes@gmail.com](mailto:frnnardes@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/frnnardes](https://www.linkedin.com/in/frnnardes/)  
-
-🚀 Vamos construir algo incrível juntos!
