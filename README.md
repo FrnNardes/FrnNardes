@@ -6,7 +6,7 @@
 
 ### 🚀 Sobre mim
 
-🎯 Apaixonado por tecnologia e programação, atualmente estou focado em **Java (JavaFX, POO)**. Além disso, estou mergulhando no mundo de **Processamento de Linguagem Natural (PLN)** e **Machine Learning**. 
+🎯 Apaixonado por tecnologia e programação.
 
 📌 Atualmente participando de uma **Residência de Software**.
 
